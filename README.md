@@ -14,6 +14,6 @@ python3 -m pip install -r requirements.txt
 ## Usage example
 
 ```shell
-$ https://www.youtube.com/watch?v=a1nmZq1KEHk
+$ python3 displayvideo.py https://www.youtube.com/watch?v=a1nmZq1KEHk
 ```
 
